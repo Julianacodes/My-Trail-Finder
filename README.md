@@ -1,6 +1,6 @@
 # My Trail Finder
 
-**Link to Live:** 
+**Link to Live:** https://julianacodes.github.io/My-Trail-Finder/
 
 Go explore outside!
 
