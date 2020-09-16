@@ -1,0 +1,214 @@
+body {
+  background: url(../images/trees2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.usernameDiv {
+  background-color: #e4e338;
+  padding: 5px;
+  width: 100%;
+  border: 8px white solid;
+  text-align: center;
+}
+
+.usernameIcon {
+  display: inline-block;
+  background-image: url(../images/profPics/04.png);
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.usernameText {
+  display: inline-block;
+}
+
+#searchQueryCity {
+  margin: 5px;
+}
+
+#searchQueryState {
+  margin: 5px;
+}
+
+#searchSubmit {
+  border: none;
+  padding: 4px;
+  background-color: #228b22;
+  color: white;
+  font-weight: bolder;
+  border-radius: 10px;
+}
+
+#searchSubmit:hover {
+  background-color: #e4e338;
+  color: #228b22;
+}
+
+.container1 {
+  width: 250px;
+  background-color: #e4e338;
+  border-style: solid;
+  border-width: 8px;
+  border-color: white;
+  padding-top: 12px;
+  text-align: center;
+}
+
+.container2 {
+  margin-top: 15px;
+  width: 88.5%;
+  background-color: #e4e338;
+  border-style: solid;
+  border-width: 8px;
+  border-color: white;
+  padding-bottom: 7px;
+  text-align: center;
+}
+
+.container3 {
+  background-color: #e4e338;
+  margin-top: 15px;
+  width: 250px;
+  border-style: solid;
+  border-width: 8px;
+  border-color: white;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.container6 {
+  margin-top: 15px;
+  width: 250px;
+  background-color: #e4e338;
+  border-style: solid;
+  border-width: 8px;
+  border-color: white;
+  padding-top: 12px;
+  text-align: center;
+}
+
+#parkMap {
+  margin-top: 15px;
+  width: 90%;
+  height: 400px;
+  background-color: #e4e338;
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+  margin-left: 15px;
+}
+
+.Pleasechangeme {
+  background-color: #aae241;
+}
+
+#nearbyeParks {
+  margin-top: 15px;
+  width: 90%;
+  height: 400px;
+  overflow: auto;
+  background-color: #e4e338;
+  border: 5px white solid;
+  margin-left: 15px;
+  margin-bottom: 30px;
+}
+
+.tContDiv {
+  display: block;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+  width: 45%;
+  height: 350px;
+  background-color: #aae241;
+  text-align: center;
+  border-radius: 25px;
+  font-size: 12px;
+  overflow: auto;
+}
+
+.tPicImg {
+  border-radius: 25px;
+  margin: 3px;
+}
+
+.tButtonDiv {
+  width: 100%;
+}
+
+.parkBtn {
+  float: left;
+  font: 8px;
+  font-weight: bold;
+  margin: 5px;
+  width: 40%;
+  padding: 5%;
+  background-color: #228b22;
+  border: none;
+  color: white;
+  border-radius: 10px;
+}
+
+.parkBtn:hover {
+  background-color: #aae241;
+  color: #228b22;
+  text-decoration: none;
+}
+
+.tDescDiv {
+  text-align: left;
+}
+
+/* User Page related stuff */
+.toHikeCol {
+  background-color: #e4e338;
+  border: 5px white solid;
+}
+
+.toHikeCol {
+  background-color: #e4e338;
+  border: 5px white solid;
+}
+
+.aboutUserDiv {
+  background-color: #aae241;
+  border: 5px white solid;
+}
+
+.userHikedDiv {
+  background-color: #e4e338;
+  border: 5px white solid;
+}
+
+.aboutUserText {
+  display: inline-block;
+}
+
+.aboutUserPicDiv {
+  display: inline-block;
+}
+
+.aboutUserPic {
+  border-radius: 50%;
+}
+
+.usernameText {
+  display: inline-block;
+  margin: 10px;
+}
+
+.scoreText {
+  display: inline-block;
+  margin: 10px;
+}
+
+.leaderText {
+  display: inline-block;
+  margin: 10px;
+}
